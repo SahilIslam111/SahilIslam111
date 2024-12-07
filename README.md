@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Islam</h1>
-<h3 align="center">A passionate EEE Engineer</h3>
+<h3 align="center">A highly motivated and skilled electrical engineering student with a passion for problem-solving and innovation 
+having a strong interest in Machine Learning, Image Processing and Natural Language Processing.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Python, Matlab,etc**
+- 🌱 I’m currently learning **Machine Learning, Python, Matlab, Tensforlow, Hugging Face,etc**
 
 - 📫 How to reach me **sahilislam.1578@gmail.com**
 
