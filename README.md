@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Islam</h1>
-<h3 align="center">A electrical engineering student with a passion for strong interest in Machine Learning, Image Processing and Natural Language Processing.</h3>
+<h3 align="center">A electrical engineering student with strong interest in Machine Learning, Image Processing and Natural Language Processing.</h3>
 
 - 🌱 I’m currently learning **Tensorflow, Pytorch, Hugging Face, OpenCv**
 
